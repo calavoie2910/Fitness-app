@@ -1,6 +1,7 @@
 import streamlit as st
 import random
 import math
+import re
 import base64
 
 # Images encodées en base64 (compatibles Streamlit Cloud)
